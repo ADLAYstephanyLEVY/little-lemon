@@ -36,3 +36,7 @@
 .white-text {
   color: var(--secondary-color-neutral);
 }
+
+.card-background{
+  background-color: rgb(255, 255, 255, 0.3);
+}
