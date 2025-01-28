@@ -9,7 +9,7 @@ export default function HomePage() {
     <React.Fragment>
       <Header />
       <Nav />
-      {/* <Main /> */}
+      <Main />
       <Footer />
     </React.Fragment>
   );
